@@ -464,7 +464,7 @@
 		},
 		{
 			"ImportPath": "golang.org/x/text",
-			"Rev": "v0.3.2"
+			"Rev": "v0.3.3"
 		},
 		{
 			"ImportPath": "golang.org/x/time",
@@ -540,15 +540,15 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "db6843a579a0"
+			"Rev": "beb8c24427d7"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "f7f98bd75d4a"
+			"Rev": "1be0d88b587c"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "25353530be4f"
+			"Rev": "d09bf06cad24"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
