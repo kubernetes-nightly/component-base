@@ -21,7 +21,7 @@ require (
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.10.0
 	k8s.io/apimachinery v0.0.0-20200619195453-1be0d88b587c
-	k8s.io/client-go v0.0.0-20200619195854-d09bf06cad24
+	k8s.io/client-go v0.0.0-20200619195856-37c3e1303de1
 	k8s.io/klog/v2 v2.1.0
 	k8s.io/utils v0.0.0-20200414100711-2df71ebbae66
 )
@@ -31,5 +31,5 @@ replace (
 	golang.org/x/tools => golang.org/x/tools v0.0.0-20190821162956-65e3620a7ae7 // pinned to release-branch.go1.13
 	k8s.io/api => k8s.io/api v0.0.0-20200619195634-beb8c24427d7
 	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20200619195453-1be0d88b587c
-	k8s.io/client-go => k8s.io/client-go v0.0.0-20200619195854-d09bf06cad24
+	k8s.io/client-go => k8s.io/client-go v0.0.0-20200619195856-37c3e1303de1
 )
